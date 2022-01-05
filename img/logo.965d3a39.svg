@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="126" viewBox="0 0 86 126">
+  <g id="Group_2720" data-name="Group 2720" transform="translate(-165 -407)">
+    <g id="Group_1" data-name="Group 1" transform="translate(19 42)">
+      <path id="Path_2281" data-name="Path 2281" d="M57.046,620.789H75.06s-2.335-22.351-26.688-28.022c0,0-22.017-4.67-34.36,14.011l-6-5.337v25.02H32.36l-6.412-8.041a17.976,17.976,0,0,1,9.414-8.972c1.043-.411,8.622-3.254,15.284,1.369A16.209,16.209,0,0,1,57.046,620.789Z" transform="translate(145.994 -227.248)" fill="#f8cf00"/>
+      <path id="Path_2282" data-name="Path 2282" d="M56.5,745.812l16.618,16.623H49.624L35.563,748.858c-.562-.016-.8,0-.8,0-3.624-.124-6.916-1.929-9.419-3.593v17.171H8V720.688H26.018a16.2,16.2,0,0,0,6.4,9.97c6.663,4.623,14.242,1.784,15.286,1.369a17.967,17.967,0,0,0,9.411-8.969q-3.2-4.018-6.413-8.042H75.056v25.022L69.048,734.7A31.145,31.145,0,0,1,56.5,745.812Z" transform="translate(146 -316.184)" fill="#7b7d79"/>
+    </g>
+    <text id="Process" transform="translate(208 519)" fill="#222" font-size="24" font-family="Cairo-SemiBold, Cairo" font-weight="600"><tspan x="-42.504" y="0">Education</tspan></text>
+  </g>
+</svg>
